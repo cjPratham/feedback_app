@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# dotenv environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+.next/
+.vite/
+
+# Coverage reports
+coverage/
+
+# VSCode config
+.vscode/
